@@ -5,6 +5,7 @@
   <br>
   <a href="https://arxiv.org/pdf/2503.19506v1"><img src="https://img.shields.io/badge/arXiv-2503.19506-b31b1b.svg" alt="arXiv"></a>
   <a href="https://github.com/lian-yue0515/MM-LINS"><img src="https://img.shields.io/badge/GitHub-Code-blue.svg" alt="GitHub"></a>
+  <a href="https://www.bilibili.com/video/BV1eC4y1Z7qk/"><img src="https://img.shields.io/badge/Bilibili-Video-ff69b4.svg" alt="Bilibili"></a>
 </div>
 
 <div align="center">
